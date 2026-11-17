@@ -1,0 +1,2 @@
+# These files are for PHP include/CLI use and must not be directly served.
+Require all denied

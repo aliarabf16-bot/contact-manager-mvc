@@ -1,0 +1,15 @@
+# Local secrets must never be committed to Git.
+/config.php
+/.env
+
+# Editor and OS files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+
+# Tool outputs
+/vendor/
+*.log
+*.sqlite
+*.sqlite3
